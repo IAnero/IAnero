@@ -20,9 +20,4 @@ Je navigue aussi bien dans les arcanes du système (C, shell UNIX, signaux) que 
 
 ---
 
-⚡ GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IAnero&showicons=true&theme=dark&bgcolor=08090a&titlecolor=5e6ad2&iconcolor=7170ff&textcolor=ededef&bordercolor=24282c&hideborder=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAnero&layout=compact&theme=dark&bgcolor=08090a&titlecolor=5e6ad2&textcolor=ededef&bordercolor=24282c&hideborder=true" width="48%" /> </p>
-
----
-
-<p align="center"> <sub>Built from scratch at <strong>42 Antananarivo</strong></sub> <br> <sub>✉️ rakotondrianaheritianafitiavan@gmail.com · 📞 +261 34 86 76 416</sub> </p>
+<p align="center"> <sub>Built from scratch at <strong>42 Antananarivo</strong></sub> <br> <sub>✉️ rakotondrianaheritianafitiavan@gmail.com · 📞 +261 34 86 764 16</sub> </p>

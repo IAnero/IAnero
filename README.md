@@ -7,6 +7,8 @@
 ---
 
 👋 About Me
+<br>
+<br>
 Mon parcours chez 42 Antananarivo m'a appris une chose : la meilleure façon d'apprendre le code, c'est d'écrire du code — beaucoup, et sur des terrains variés. Du shell UNIX aux architectures full-stack modernes, chaque projet est un nouveau problème à résoudre.
 
 Je navigue aussi bien dans les arcanes du système (C, shell UNIX, signaux) que dans l'écosystème web (JavaScript, TypeScript, React, Node.js). Je parle couramment trois langues et je considère chaque nouvelle techno comme un défi à relever.
@@ -16,21 +18,6 @@ Je navigue aussi bien dans les arcanes du système (C, shell UNIX, signaux) que 
 🛠️ Stack
 <p> <img src="https://img.shields.io/badge/C-08090a?style=for-the-badge&logo=c&logoColor=ededef" /> <img src="https://img.shields.io/badge/C++-08090a?style=for-the-badge&logo=c%2B%2B&logoColor=ededef" /> <img src="https://img.shields.io/badge/JavaScript-08090a?style=for-the-badge&logo=javascript&logoColor=ededef" /> <img src="https://img.shields.io/badge/TypeScript-08090a?style=for-the-badge&logo=typescript&logoColor=ededef" /> <img src="https://img.shields.io/badge/Node.js-08090a?style=for-the-badge&logo=nodedotjs&logoColor=ededef" /> <img src="https://img.shields.io/badge/React-08090a?style=for-the-badge&logo=react&logoColor=ededef" /> <img src="https://img.shields.io/badge/PostgreSQL-08090a?style=for-the-badge&logo=postgresql&logoColor=ededef" /> <img src="https://img.shields.io/badge/Docker-08090a?style=for-the-badge&logo=docker&logoColor=ededef" /> <img src="https://img.shields.io/badge/Prisma-08090a?style=for-the-badge&logo=prisma&logoColor=ededef" /> <img src="https://img.shields.io/badge/Git-08090a?style=for-the-badge&logo=git&logoColor=ededef" /> <img src="https://img.shields.io/badge/REST%20API-08090a?style=for-the-badge&logo=fastapi&logoColor=ededef" /> </p>
 
----
-
-📌 Projets 42
-Projet	Technos	Description
-**Minishell**	C, Parsing, UNIX Signals	Interpréteur de commandes bash-like avec pipelines, redirections et gestion des signaux
-**Cub3D**	C, Raycasting, MiniLibX	Moteur 3D first-person avec raycasting, sans bibliothèque graphique moderne
-**Inception**	Docker, NGINX, MariaDB	Infrastructure multi-services conteneurisée de zéro
-**ft_irc**	C++, Sockets TCP	Serveur IRC multi-clients avec multiplexage d'entrées-sorties
-**ft_transcendence**	Node.js, React, PostgreSQL	Plateforme full-stack livrée en équipe de 5 — dashboard, notifications, gamification
----
-
-🌐 Langues
-Malagasy — Langue maternelle
-Français — Courant
-Anglais — C2 Proficient (EF SET 76/100)
 ---
 
 ⚡ GitHub Stats
